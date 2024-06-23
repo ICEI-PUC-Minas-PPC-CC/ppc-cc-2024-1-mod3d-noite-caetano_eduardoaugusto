@@ -1,19 +1,17 @@
-# TÍTULO DO PROJETO
+# Trabalho: Tarefa 4 - Aplicação Gráfica 3D, Animação ou Modelo 3D
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`2021 - Semestre 1`
+`Disciplina: Modelagem 3d`
+`2024 - Semestre 1`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Caetano Muniz
+- Eduardo Augusto
 
 ## Professor
 
-- Mestre Yoda
+- Will Corinthias Ricardo
 
 # Documentação
 
